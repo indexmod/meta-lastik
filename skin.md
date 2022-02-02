@@ -17,7 +17,7 @@ production:  Poga
 script:
 deadline: 21.08.20
 duration: 00:00:50
-video: media/the-skin.m4v
+video: media/skin.m4v
 ---
 
 “The Skin” is a 15x5-meter object made of plastic debris.

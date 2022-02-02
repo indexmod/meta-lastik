@@ -1,7 +1,6 @@
 
 <div>
 <main class="grid">
-
 	{% assign mypages = site.html_pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 <a href="{{page.url|absolute_url}}">
