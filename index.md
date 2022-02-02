@@ -3,6 +3,6 @@ title: Ластик
 subtitle:
 shortname: Ластик
 exclude: true
-video: media/lastik-ripple.gif
+video: media/cover.mp4
 layout: index
 ---
