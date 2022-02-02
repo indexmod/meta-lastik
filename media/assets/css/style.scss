@@ -19,13 +19,13 @@ table {
 
 
 table, th, td {
-  border-bottom: 1px solid yellow;
+  border-bottom: 1px solid grey;
 
 }
 
 th, td {
-  padding: 5px;
-  color: black;
+  padding: 12px;
+  color: green;
   text-align: left;
   vertical-align: middle;
   font-family: 'IBM Plex Mono', sans-serif;
@@ -59,7 +59,7 @@ th, td {
 
 h1, h2, h3 {
     font-family: 'IBM Plex Mono', sans-serif;
-    font-weight: 900;
+    font-weight: 400;
     color: black;
     font-size: 1.2em;
     line-height: 1.7em;
