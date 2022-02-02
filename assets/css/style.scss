@@ -19,12 +19,13 @@ table {
 
 
 table, th, td {
-  border: 0.1px solid pink;
+  border-bottom: 1px solid green;
+
 }
 
 th, td {
   padding: 10px;
-  color: green;
+  color: red;
   text-align: left;
   vertical-align: top;
   font-family: 'IBM Plex Mono', sans-serif;
@@ -43,8 +44,8 @@ th, td {
 
  hr {
      border: none;
-     background-color: green;
-     color: green;
+     background-color: yellow;
+     color: yellow;
      height: 1px;
 }
 
@@ -90,7 +91,7 @@ a:link {
 
 /* mouse over link */
  a:hover {
-     color: black;
+     color: green;
      text-decoration: none;
 }
 /* selected link */
