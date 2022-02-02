@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+{% include meta.html %}
+{% include yandex.html %}
+{% include favicon.html %}
+</head>
+<body>
+{% include window.html %}
+
+<h2>{{page.subtitle}}</h2>
+{% include table.html %}
+{{ content }}
+{% include edit.html %}
+{% include menu.html %}
+<hr>
+{% include footer.html %}
+<p>2020 — {{ site.time | date: "%Y" }} © Indexmod for Ластик
+</p>
+</body>
+</html>
