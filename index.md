@@ -1,5 +1,5 @@
 ---
-title: Ластик
+title: Lastik Moscow 
 subtitle:
 shortname: Lastik Moscow
 exclude: true
