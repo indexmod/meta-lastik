@@ -46,10 +46,18 @@ th, td {
      line-height: 1.5em;
 }
 
-h1, h2, h3 {
+h1 {
     font-family: 'IBM Plex Mono', sans-serif;
     font-weight: 900;
     color: black;
+    font-size: 1.3em;
+    line-height: 1.7em;
+}
+
+h2, h3 {
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-weight: 400;
+    color: silver;
     font-size: 1.2em;
     line-height: 1.7em;
 }
