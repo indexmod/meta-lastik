@@ -4,7 +4,7 @@
 	{% assign mypages = site.html_pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 <a href="{{page.url|absolute_url}}">
-				 {% include window.html %}</a>
+				 {% include window-small.html %}</a>
 {% endunless %}
 {% endfor %}
 </main>
