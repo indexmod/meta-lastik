@@ -1,11 +1,13 @@
 ---
 title: Ластик
 subtitle:
-shortname:
+shortname: Lastik Moscow
 exclude: true
 video: media/cover.m4v
 layout: index
 ---
 
 
-**Мы делаем анимацию и графику для рекламы, кино и образовательных проектов.**
+# We provide animation and graphics for advertising, film and educational projects
+
+## Мы делаем анимацию и графику для рекламы, кино и образовательных проектов
