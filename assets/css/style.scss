@@ -85,7 +85,15 @@ ul, li {
     text-decoration: underline;
 }
 
+
+
+.main a:link {
+    color: green;
+    text-decoration: underline;
+}
+
 /* unvisited link */
+
 a:link {
     color: black;
     text-decoration: none;
