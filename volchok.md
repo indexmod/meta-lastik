@@ -15,7 +15,7 @@ sound:
 animation:  
 production:  
 script:
-deadline: 21.08.20
+year: 2020
 duration: 00:00:50
 video: media/volchok.m4v
 ---
