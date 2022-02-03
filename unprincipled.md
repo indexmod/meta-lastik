@@ -1,26 +1,26 @@
 ---
-title: 4 истории / Four stories
-subtitle: Мультимедийный зин
+title: Беспринципные / Unprincipled
+subtitle: Титры к сериалу
 prmalink: unprincipled
 layout: default
-shortname: 4-S
+shortname: БПЦ
 status: 🟢
-brand: Logos
-client: Logos
-agency: Logos
-direction: Платонов
-art: Степанова
+brand: Kinoslovo
+client:
+agency:
+direction: Platonov
+art: Stepanova
 music:  
 sound:
 animation:  
 production:  
-script:
+script: Deinichenko
 year: 2020
 duration: 00:00:50
 video: media/unprincipled.m4v
 ---
 
-Cartoon intro for the — "Besprintsipnie" (Unprincipled). A phantasmagoric trip through intrigues, betrayals, embarrassing situations on different floors, and in the lanes of a prosperous Moscow district. Each scene is connected to a real place in a vicinity of Patriarch Ponds (Patriki) — London's Soho equivalent. 
+Cartoon intro for the — "Besprintsipnie" (Unprincipled). A phantasmagoric trip through intrigues, betrayals, embarrassing situations on different floors, and in the lanes of a prosperous Moscow district. Each scene is connected to a real place in a vicinity of Patriarch Ponds (Patriki) — London's Soho equivalent.
 
 
 ---
