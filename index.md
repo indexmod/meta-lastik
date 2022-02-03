@@ -3,7 +3,7 @@ title: Ластик
 subtitle:
 shortname:
 exclude: true
-video: media/cover.mp4
+video: media/cover.m4v
 layout: index
 ---
 
