@@ -31,17 +31,6 @@ th, td {
   font-family: 'IBM Plex Mono', sans-serif;
 }
 
-
- #wrapper {
-     width: 100%;
-     min-width: 300px;
-     max-width: 900px;
-     margin: 0px auto;
-     color: white;
-     padding: 1 1 1 1;
-     opacity: 0.9;
-}
-
  hr {
      border: none;
      background-color: yellow;
@@ -105,9 +94,30 @@ a:visited {
     text-decoration: none;
 }
 
+#wrapper {
+    width: 100%;
+    min-width: 300px;
+    max-width: 900px;
+    margin: 0px auto;
+    color: white;
+    padding: 1 1 1 1;
+    opacity: 0.9;
+}
+
+#wrapper-small {
+    width: 100%;
+    min-width: 10px;
+    max-width: 100px;
+    margin: 0px auto;
+    color: white;
+    padding: 1 1 1 1;
+    opacity: 0.9;
+}
+
  .video-container {
      position: relative;
 }
+
 video {
     height: auto;
     vertical-align: middle;
@@ -120,6 +130,13 @@ mark {
  background: none;
  padding-left: 2px;
  padding-right: 2px;
+}
+
+mark-small {
+ color: black;
+ background: none;
+ padding-left: 1px;
+ padding-right: 1px;
 }
 
 .overlay-desc {
@@ -136,6 +153,16 @@ mark {
     font-weight: 100;
     font-family: 'IBM Plex Mono', sans-serif;
     font-size: 4em;
+    text-align: right;
+    transform: skewY(-10deg);
+    transform: perspective(-30deg);
+    line-height: 90%;
+}
+
+.overlay-name-small {
+    font-weight: 100;
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-size: 1em;
     text-align: right;
     transform: skewY(-10deg);
     transform: perspective(-30deg);
