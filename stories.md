@@ -3,25 +3,24 @@ title: 4 истории / Four stories
 subtitle: Мультимедийный зин
 prmalink: stories
 layout: default
-shortname: 4-S
+shortname: Four Stories
 status: 🟢
 brand: Logos
-client: Logos
-agency: Logos
-direction: Платонов
-art: Степанова
+client:
+agency:
+direction: Platonov
+art: Stepanova
 music:  
 sound:
 animation:  
 production:  
 script:
-deadline: 21.08.20
+year: 2020
 duration: 00:00:50
 video: media/stories.m4v
 ---
 
-“The Skin” is a 15x5-meter object made of plastic debris.
-Hanging in the Riviera shopping mall in Moscow.
+Four Stories is an educational special project consisitng of media materials. It covers four topics — Copper, Dostoevsky, Farming and Viruses. In this multi-layered Long-Form-Web-Zin, studio Lastik had to make eight animated videos
 
 
 ---
