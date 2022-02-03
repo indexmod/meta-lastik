@@ -3,7 +3,7 @@ title: Сбер Eaптека / Sber Eapteka
 subtitle: Реклама аптеки
 prmalink: sber
 layout: default
-shortname: Green
+shortname: Eapteka
 status: 🟢
 brand: Sber Eapteka
 client: Sber
@@ -11,7 +11,7 @@ agency: Zebra
 direction: Platonov
 art: Stepanova
 music:  
-sound: 
+sound:
 animation:  
 production:  Ochinskaya
 script:
