@@ -156,3 +156,10 @@ mark {
     transform: perspective(-30deg);
     line-height: 90%;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0px;
+  align-items: center;
+}
