@@ -5,7 +5,7 @@ prmalink: sobchak
 status: 🔵
 layout: default
 shortname: Собчак
-video: media/sobchak.m4v
+video: https://media.giphy.com/media/rDIlJ8Fif0xGwaxa4k/giphy.mp4
 year: 2020
 ---
 
