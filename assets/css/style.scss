@@ -57,7 +57,7 @@ h1 {
 h2, h3 {
     font-family: 'IBM Plex Mono', sans-serif;
     font-weight: 400;
-    color: silver;
+    color: black;
     font-size: 1.2em;
     line-height: 1.7em;
 }
@@ -162,4 +162,48 @@ mark {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 0px;
   align-items: center;
+}
+
+.cards {
+  --auto-grid-min-size: 16rem;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+  grid-gap: 2rem;
+  margin: 1rem;
+  padding-left: 0;
+  pointer-events: none;
+  text-align: center;
+}
+
+.cards > * {
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  cursor: pointer;
+
+  pointer-events: auto;
+  transition: 300ms opacity, 300ms transform;
+}
+
+.cards:hover > *,
+.cards:focus-within > * {
+  opacity: 0.4;
+}
+
+.cards:hover > *:hover,
+.cards:focus-within > *:focus {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+.cards:hover > :focus:not(:hover) {
+  transform: scale(1.05);
+}
+
+.card {
+  background: #da7a55;
+  color: #fff;
+  opacity: 0.5;
+  list-style: none;
+  padding: 5rem 1rem;
 }
