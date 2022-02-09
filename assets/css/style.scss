@@ -121,7 +121,6 @@ a:visited {
 
 .video-container {
     position: relative;
-    opacity: 0.1;
 }
 
 video {
@@ -162,7 +161,7 @@ mark {
   --auto-grid-min-size: 16rem;
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr 1fr 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
   grid-gap: 0rem;
   margin: 1rem;
   padding-left: 0;
