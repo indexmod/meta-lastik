@@ -121,6 +121,7 @@ a:visited {
 
 .video-container {
     position: relative;
+    opacity: 0.1;
 }
 
 video {
@@ -157,19 +158,12 @@ mark {
     line-height: 90%;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 0px;
-  align-items: center;
-}
-
 .cards {
   --auto-grid-min-size: 16rem;
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
-  grid-gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr 1fr 1fr));
+  grid-gap: 0rem;
   margin: 1rem;
   padding-left: 0;
   pointer-events: none;
@@ -203,7 +197,6 @@ mark {
 .card {
   background: #da7a55;
   color: #fff;
-  opacity: 0.5;
   list-style: none;
   padding: 5rem 1rem;
 }
