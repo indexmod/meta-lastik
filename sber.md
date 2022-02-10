@@ -16,8 +16,8 @@ animation:
 production:  Ochinskaya
 script:
 year: 2020
-duration: 00:00:50
-video: media/sber.mp4
+duration: 00:00:20
+video: media/sber.mov
 
 ---
 
