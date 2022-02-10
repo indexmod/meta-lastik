@@ -3,13 +3,12 @@
 <main class="grid">
 	{% assign mypages = site.html_pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
-<a href="{{page.url|absolute_url}}"> <video autoplay muted loop>
+<a href="{{page.url|absolute_url}}" {{ page.title }}, {{ page.year }}> <video autoplay muted loop>
 <source src="{{page.video}}" type="video/mp4">
 <source src="{{page.video}}" type="video/ogg">
 <source src="{{page.video}}" type="video/mov">
 <source src="{{page.video}}" type="video/m4v">
 <source src="{{page.video}}" type="video/gif">
-<p>{{ page.title }}, {{ page.year }}</p>
 </video></a>
 {% endunless %}
 {% endfor %}
