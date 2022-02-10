@@ -131,7 +131,7 @@ video {
 }
 
 mark {
- color: yellow;
+ color: black;
  background: none;
  padding-left: 2px;
  padding-right: 2px;
@@ -140,10 +140,10 @@ mark {
 .overlay-desc {
  background: alpha;
  position: absolute;
- top: 0; right: 5; bottom: 5; left: 0;
+ top: 0; right: 20; bottom: 0; left: 0;
  display: flex;
- align-items: padding-right;
- justify-content: border-bottom;
+ align-items: center;
+ justify-content: center;
  z-index: 5
 }
 
