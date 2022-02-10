@@ -1,8 +1,9 @@
 
 <div>
-<main class="cards">
-	{% assign mypages = site.html_pages | sort: "order" %} {% for page in mypages %}
+<main class="grid-page">
+	{% assign mypages = site.html_pages | sample: 2 %} {% for page in mypages %}
 {% unless page.exclude %}
+<p>
 <a href="{{page.url|absolute_url}}"> <video autoplay muted loop>
 <source src="{{page.video}}" type="video/mp4">
 <source src="{{page.video}}" type="video/ogg">
@@ -10,7 +11,9 @@
 <source src="{{page.video}}" type="video/m4v">
 <source src="{{page.video}}" type="video/gif">
 </video></a>
-{{page.shortname}}
+<br>
+{{ page.title }}, {{ page.year }}
+</p>
 {% endunless %}
 {% endfor %}
 </main>
