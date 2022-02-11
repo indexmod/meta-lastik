@@ -90,29 +90,37 @@ ul, li {
 
 a:link {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
+    font-size: 1em;
+    line-height: 1.5em;
 }
 
 /* mouse over link */
  a:hover {
      color: green;
-     text-decoration: none;
+     text-decoration: underline;
+     font-size: 1em;
+     line-height: 1.5em;
 }
 /* selected link */
  a:active {
      color: black;
-     text-decoration: none;
+     text-decoration: underline;
+     font-size: 1em;
+     line-height: 1.5em;
 }
 
 a:visited {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
+    font-size: 1em;
+    line-height: 1.5em;
 }
 
 #wrapper {
     width: 100%;
     min-width: 300px;
-    max-width: 900px;
+    max-width: 700px;
     margin: 0px auto;
     color: white;
     padding: 1 1 1 1;
@@ -186,6 +194,6 @@ mark {
 }
 
 /* Screen larger than 900px? 2 columns */
-@media (min-width: 900px) {
+@media (min-width: 700px) {
   .grid-page { grid-template-columns: repeat(2, 1fr); }
 }
