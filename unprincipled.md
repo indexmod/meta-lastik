@@ -17,7 +17,7 @@ production:
 script: Deinichenko
 year: 2021
 duration: 00:00:50
-video: unprincipled.mp4
+video: media/unprincipled.mp4
 number: 10
 ---
 

@@ -17,7 +17,7 @@ production: Ochinskaya
 script:
 year: 2021
 duration: 00:00:50
-video: volchok.mp4
+video: media/volchok.mp4
 number: 2
 ---
 
