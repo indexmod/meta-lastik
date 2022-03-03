@@ -1,2 +1,2 @@
 # meta-lastik
-Это простой сайт анимационной студии Ластик в Москве 
+This is Lastik studio site
