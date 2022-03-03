@@ -18,6 +18,7 @@ script:
 year: 2020
 duration: 00:00:50
 video: media/skin.m4v
+number: 7
 ---
 
 “The Skin” is a 15x5-meter object made of plastic debris.
