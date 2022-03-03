@@ -1,23 +1,23 @@
 ---
-title: Шкура / The Skin
-subtitle: Инсталляция для проекта эко-активизма
+title: The Skin
+subtitle: Installation for eco-activism project
 prmalink: skin
 layout: default
 shortname: The Skin
 status: 🟢
-brand: ТРЦ Ривьера
-client: ТРЦ Ривьера
+brand:
+client:
 agency: ТРЦ Ривьера
-direction: Платонов
-art: Степанова
+direction: Platonov
+art: Stepanova
 music:  
-sound: Иван Ерофеев
+sound: Ivan Erofeev
 animation:  
-production:  Poga
+production: Poga
 script:
-year: 2020
+year: 2021
 duration: 00:00:50
-video: media/skin.m4v
+video: media/skin.mp4
 number: 7
 ---
 

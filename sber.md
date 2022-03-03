@@ -1,6 +1,6 @@
 ---
-title: Сбер Eaптека / Sber Eapteka
-subtitle: Реклама аптеки
+title: Eapteka
+subtitle: Pharmacy add
 prmalink: sber
 layout: default
 shortname: Eapteka
@@ -17,7 +17,7 @@ production:  Ochinskaya
 script:
 year: 2020
 duration: 00:00:20
-video: media/sber.mov
+video: media/sber.mp4
 number: 6
 ---
 
