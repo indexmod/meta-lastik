@@ -1,5 +1,5 @@
 ---
-title: Музей Москвы / Moscow Museum
+title: Moscow Museum
 subtitle: Ролик для Музея Москвы
 prmalink: musemos
 layout: default
@@ -17,7 +17,7 @@ production:
 script:
 year: 2020
 duration: 00:00:50
-video: media/musemos.mov
+video: media/musemos.mp4
 number: 4
 ---
 
