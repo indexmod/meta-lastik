@@ -1,6 +1,6 @@
 ---
-title: Зеленая идея / Green Idea
-subtitle: Реклама йогурта для йогов и веганов
+title: Green Idea
+subtitle: Yogurt advertisement for vegans
 prmalink: green
 layout: default
 shortname: Green
@@ -8,16 +8,16 @@ status: 🟢
 brand: Green
 client:
 agency:
-direction: Platonov
-art: Stepanova
+direction: Alexei Platonov
+art: Nadya Stepanova
 music:  
 sound:
 animation:  
-production:  Ochinskaya
+production: Tatiana Ochinskaya
 script:
 year: 2020
 duration: 00:00:50
-video: media/green.m4v
+video: media/green.mp4
 number: 0
 ---
 
@@ -26,4 +26,4 @@ Cartoon intro for the — "Besprintsipnie" (Unprincipled). A phantasmagoric trip
 
 ---
 
-+ [Vimeo](xxxxx)
++ [Green Idea full video on Vimeo Lastik Studio](https://vimeo.com/580000376)
