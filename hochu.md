@@ -1,5 +1,5 @@
 ---
-title: Хочу все знать / I want to know
+title: I want to know
 subtitle: Ролик киножурнала
 prmalink: hochu
 layout: default
@@ -15,9 +15,9 @@ sound:
 animation:  
 production:  
 script:
-year: 2020
+year: 2021
 duration: 00:00:50
-video: media/hochu.m4v
+video: media/hochu.mp4
 number: 5
 ---
 

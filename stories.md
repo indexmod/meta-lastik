@@ -1,5 +1,5 @@
 ---
-title: 4 истории / Four stories
+title: Four stories
 subtitle: Мультимедийный зин
 prmalink: stories
 layout: default
@@ -17,7 +17,7 @@ production:
 script:
 year: 2020
 duration: 00:00:50
-video: media/stories.m4v
+video: media/stories.mp4
 number: 9
 ---
 
