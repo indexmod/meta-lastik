@@ -1,6 +1,6 @@
 ---
-title: Волчок / Volchok
-subtitle: Ролик для пивоварни
+title: Volchok
+subtitle: Add for Volkovskaya brewery
 prmalink: volchok
 layout: default
 shortname: Volchok
@@ -15,9 +15,9 @@ sound:
 animation:  
 production: Ochinskaya
 script:
-year: 2020
+year: 2021
 duration: 00:00:50
-video: https://media.giphy.com/media/udhngZK2IFTc4/giphy.mp4
+video: volchok.mp4
 number: 2
 ---
 
@@ -25,4 +25,4 @@ number: 2
 
 ---
 
-+ [Vimeo](xxxxx)
++ [Volchok full video on Vimeo Lastik Studio](https://vimeo.com/625784188)
