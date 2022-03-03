@@ -1,6 +1,6 @@
 ---
-title: Беспринципные / Unprincipled
-subtitle: Титры к сериалу
+title: Unprincipled
+subtitle: Intro cover for series
 prmalink: unprincipled
 layout: default
 shortname: БПЦ
@@ -8,16 +8,16 @@ status: 🟢
 brand: Kinoslovo
 client:
 agency:
-direction: Platonov
-art: Stepanova
+direction: Alexei Platonov
+art: Nadia Stepanova
 music:  
 sound:
 animation:  
 production:  
 script: Deinichenko
-year: 2020
+year: 2021
 duration: 00:00:50
-video: https://media.giphy.com/media/1AbucfSA1qh7faJmzE/giphy.mp4
+video: unprincipled.mp4
 number: 10
 ---
 
@@ -26,4 +26,4 @@ Cartoon intro for the — "Besprintsipnie" (Unprincipled). A phantasmagoric trip
 
 ---
 
-+ Видео [Vimeo](xxxxx)
++ [Unprincipled full video on Vimeo Lastik Studio](https://vimeo.com/476301197)
