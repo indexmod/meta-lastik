@@ -1,7 +1,7 @@
 ---
 title: Unprincipled
 subtitle: Intro cover for series
-prmalink: unprincipled
+permalink: unprincipled
 layout: default
 shortname: БПЦ
 status: 🟢

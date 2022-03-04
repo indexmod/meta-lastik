@@ -1,7 +1,7 @@
 ---
 title: Volchok
 subtitle: Add for Volkovskaya brewery
-prmalink: volchok
+permalink: volchok
 layout: default
 shortname: Volchok
 status: 🟢

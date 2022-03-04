@@ -1,7 +1,7 @@
 ---
 title: Beware of Sobchak
 subtitle: YouTube show by Ksenia Sobchak intro and style pack
-prmalink: sobchak
+permalink: sobchak
 status: 🔵
 layout: default
 shortname: Собчак
