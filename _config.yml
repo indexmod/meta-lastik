@@ -1,8 +1,8 @@
 ---
 
-title: Lastik
+title: Ластик
 timezone: UTC
-description: Animation studio
+description: Анимационная студия в Москве
 
 show_sidebar: false
 show_downloads: false
@@ -12,11 +12,6 @@ git_branch: master
 
 theme: jekyll-theme-minimal
 
-prose:
-  rooturl: 'https://github.com/indexmod/lastik'
-  siteurl: 'https://github.com/indexmod/lastik'
-  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
-
 include: ['.htaccess']
 
 use_github_wiki: false
@@ -25,6 +20,10 @@ custom_head: false
 custom_sidebar: false
 custom_footer: false
 
+prose:
+  rooturl: 'https://github.com/indexmod/lastik'
+  siteurl: 'https://github.com/indexmod/lastik'
+  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/media'
 
   ignore:
