@@ -1,7 +1,7 @@
 
 <div>
 <main class="grid">
-	{% assign mypages = site.html_pages | group_by: 'year'| sort: "order" %} {% for page in mypages %}
+	{% assign mypages = site.html_pages | sort: "order" %} {% for page in mypages %}
 {% unless page.exclude %}
 <div>
 <a href="{{page.url|absolute_url}}"> <video autoplay muted loop>
