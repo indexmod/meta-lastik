@@ -1,7 +1,7 @@
 ---
 title: Green Idea
 subtitle: Yogurt advertisement for vegans
-permalink: green
+prmalink: green
 layout: default
 shortname: Green
 status: 🟢

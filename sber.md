@@ -1,7 +1,7 @@
 ---
 title: Eapteka
 subtitle: Pharmacy add
-permalink: sber
+prmalink: sber
 layout: default
 shortname: Eapteka
 status: 🟢

@@ -1,7 +1,7 @@
 ---
 title: Four stories
 subtitle: Мультимедийный зин
-permalink: stories
+prmalink: stories
 layout: default
 shortname: Four Stories
 status: 🟢

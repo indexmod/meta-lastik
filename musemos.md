@@ -1,7 +1,7 @@
 ---
 title: Moscow Museum
 subtitle: Ролик для Музея Москвы
-permalink: musemos
+prmalink: musemos
 layout: default
 shortname: Musmos
 status: 🟢

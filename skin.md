@@ -1,7 +1,7 @@
 ---
 title: The Skin
 subtitle: Installation for eco-activism project
-permalink: skin
+prmalink: skin
 layout: default
 shortname: The Skin
 status: 🟢

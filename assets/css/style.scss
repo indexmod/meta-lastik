@@ -1,5 +1,6 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
 
 
 body {
@@ -9,10 +10,7 @@ body {
      height: 100%;
      padding-left: 10px;
      padding-right: 10px;
-
 }
-
-
 
 table {
   border-collapse: collapse;
@@ -30,24 +28,22 @@ th, td {
   color: green;
   text-align: left;
   vertical-align: top;
-  font-family: 'Helvetica', sans-serif;
-  font-weight: 900;
+  font-family: 'IBM Plex Mono', sans-serif;
 }
 
  hr {
      border: none;
-     background-color: black;
-     color: black;
-     height: 30px;
+     background-color: yellow;
+     color: yellow;
+     height: 25px;
 }
 
  p {
-     font-family: 'Helvetica', sans-serif;
-     font-weight: 900;
+     font-family: 'IBM Plex Mono', sans-serif;
+     font-weight: 200;
      color: black;
      font-size: 1em;
      line-height: 1.5em;
-     -webkit-text-size-adjust: none;
 }
 
 h1 {
@@ -59,16 +55,16 @@ h1 {
 }
 
 h2, h3 {
-    font-family: 'Helvetica', sans-serif;
-    font-weight: 900;
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-weight: 400;
     color: black;
     font-size: 1.2em;
     line-height: 1.7em;
 }
 
 ul, li {
-    font-family: 'Helvetica', sans-serif;
-    font-weight: 900;
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-weight: 400;
     color: black;
     font-size: 1em;
     line-height: 1.5em;
@@ -77,8 +73,8 @@ ul, li {
 .toptable-meta
 
 {
-    font-family: 'Helvetica', sans-serif;
-    font-weight: 900;
+    font-family: 'IBM Plex Mono', sans-serif;
+    font-weight: 400;
     color: black;
     font-size: 1em;
     line-height: 1.5em;
@@ -87,7 +83,6 @@ ul, li {
 .main {
     color: green;
     text-decoration: underline;
-    font-weight: 900;
 }
 
 
@@ -95,35 +90,31 @@ ul, li {
 
 a:link {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     font-size: 1em;
     line-height: 1.5em;
-    font-weight: 900;
 }
 
 /* mouse over link */
  a:hover {
      color: green;
-     text-decoration: none;
+     text-decoration: underline;
      font-size: 1em;
      line-height: 1.5em;
-     font-weight: 900;
 }
 /* selected link */
  a:active {
      color: black;
-     text-decoration: none;
+     text-decoration: underline;
      font-size: 1em;
      line-height: 1.5em;
-     font-weight: 900;
 }
 
 a:visited {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     font-size: 1em;
     line-height: 1.5em;
-    font-weight: 900;
 }
 
 #wrapper {
