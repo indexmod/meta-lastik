@@ -12,6 +12,11 @@ git_branch: master
 
 theme: jekyll-theme-minimal
 
+prose:
+  rooturl: 'https://github.com/indexmod/lastik'
+  siteurl: 'https://github.com/indexmod/lastik'
+  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
+
 include: ['.htaccess']
 
 use_github_wiki: false
