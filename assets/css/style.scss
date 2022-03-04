@@ -1,6 +1,5 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
 
 
 body {
@@ -31,18 +30,18 @@ th, td {
   color: green;
   text-align: left;
   vertical-align: top;
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: 'Courier New', monospace;
 }
 
  hr {
      border: none;
-     background-color: yellow;
-     color: yellow;
-     height: 25px;
+     background-color: green;
+     color: green;
+     height: 10px;
 }
 
  p {
-     font-family: 'IBM Plex Mono', sans-serif;
+     font-family: 'Courier New', monospace;
      font-weight: 200;
      color: black;
      font-size: 1em;
@@ -59,7 +58,7 @@ h1 {
 }
 
 h2, h3 {
-    font-family: 'IBM Plex Mono', sans-serif;
+    font-family: 'Courier New', monospace;
     font-weight: 400;
     color: black;
     font-size: 1.2em;
@@ -67,7 +66,7 @@ h2, h3 {
 }
 
 ul, li {
-    font-family: 'IBM Plex Mono', sans-serif;
+    font-family: 'Courier New', monospace;
     font-weight: 400;
     color: black;
     font-size: 1em;
@@ -77,7 +76,7 @@ ul, li {
 .toptable-meta
 
 {
-    font-family: 'IBM Plex Mono', sans-serif;
+    font-family: 'Courier New', monospace;
     font-weight: 400;
     color: black;
     font-size: 1em;
