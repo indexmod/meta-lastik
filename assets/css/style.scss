@@ -10,7 +10,10 @@ body {
      height: 100%;
      padding-left: 10px;
      padding-right: 10px;
+
 }
+
+
 
 table {
   border-collapse: collapse;
@@ -44,6 +47,7 @@ th, td {
      color: black;
      font-size: 1em;
      line-height: 1.5em;
+     -webkit-text-size-adjust: none;
 }
 
 h1 {
