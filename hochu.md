@@ -1,7 +1,7 @@
 ---
 title: I want to know
-subtitle: Ролик киножурнала
-prmalink: hochu
+subtitle: Cover for video magazine
+permalink: hochu
 layout: default
 shortname: ХВЗ
 status: 🟢
@@ -21,7 +21,7 @@ video: media/hochu.mp4
 number: 5
 ---
 
-Хочу все знати (рос. Хочу все знать) — радянський дитячий науково-популярний кіножурнал. Виробник до 2003 року — Центральна кіностудія науково-популярних і навчальних фільмів «Центрнаукфільм» (до 1966 року «Моснаукфільм»). Виробник після 2003 року — кіностудія «Центр національного фільму».
+I want to know everything (I want to know everything) - Radyansky childish popular science newsreel. Virobnik until 2003 - Central Film Studio of Popular Science and Initial Films "Centrnaukfilm" (until 1966 "Mosnaukfilm"). Virobnik after 2003 - film studio "Center of National Film".
 
 ---
 

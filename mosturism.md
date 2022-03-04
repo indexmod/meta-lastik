@@ -1,7 +1,7 @@
 ---
 title: Hospitality
 subtitle: Video for Tourism Committee
-prmalink: mosturism
+permalink: mosturism
 layout: default
 shortname: Mostur
 status: 🟢
