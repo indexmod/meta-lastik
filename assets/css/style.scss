@@ -194,10 +194,10 @@ mark {
 
 /* Screen larger than 600px? 2 column */
 @media (min-width: 600px) {
-  .grid-page { grid-template-columns: repeat(2, 1fr); }
+  .grid-page { grid-template-columns: repeat(5, 1fr); }
 }
 
 /* Screen larger than 900px? 2 columns */
 @media (min-width: 700px) {
-  .grid-page { grid-template-columns: repeat(2, 1fr); }
+  .grid-page { grid-template-columns: repeat(5, 1fr); }
 }
