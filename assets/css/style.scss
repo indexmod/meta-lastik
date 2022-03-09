@@ -13,7 +13,6 @@ body {
 }
 
 
-
 table {
   border-collapse: collapse;
 }
@@ -21,7 +20,7 @@ table {
 
 
 table, th, td {
-  border-bottom: 5px solid silver;
+  border-bottom: 5px solid white;
 
 }
 
@@ -36,7 +35,7 @@ th, td {
  hr {
      border: none;
      background-color: black;
-     color: black;
+     color: white;
      height: 30px;
 }
 
@@ -73,9 +72,7 @@ ul, li {
     line-height: 1.5em;
 }
 
-.toptable-meta
-
-{
+.toptable-meta {
     font-family: 'monaco', sans-serif;
     font-weight: 900;
     color: black;
