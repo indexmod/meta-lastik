@@ -1,7 +1,7 @@
 
 <div>
 <main class="grid-page">
-	{% assign mypages = site.html_pages | sample: 4 %} {% for page in mypages %}
+{% assign mypages = site.html_pages | sample: 4 %} {% for page in mypages %}
 {% unless page.exclude %}
 <p>
 <a href="{{page.url|absolute_url}}"> <video autoplay muted loop>
