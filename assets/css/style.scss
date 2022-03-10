@@ -53,24 +53,24 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     color: black;
-    font-size: 2em;
-    line-height: 1.5em;
+    font-size: 0.5em;
+    line-height: 1em;
 }
 
 h2, h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     color: black;
-    font-size: 1.2em;
-    line-height: 1.7em;
+    font-size: 0.3em;
+    line-height: 1em;
 }
 
 ul, li {
     font-family: 'Space Mono', monospace;
     font-weight: 900;
     color: black;
-    font-size: 1em;
-    line-height: 1.5em;
+    font-size: 0.5em;
+    line-height: 1em;
 }
 
 .toptable-meta {
@@ -82,8 +82,8 @@ ul, li {
 }
 
 .main {
-    color: green;
-    text-decoration: underline;
+    color: black;
+    text-decoration: bold;
 }
 
 
@@ -92,8 +92,8 @@ ul, li {
 a:link {
     color: black;
     text-decoration: none;
-    font-size: 1em;
-    line-height: 1.5em;
+    font-size: 0.5em;
+    line-height: 1em;
     font-weight: 900;
 }
 
@@ -101,24 +101,24 @@ a:link {
  a:hover {
      color: green;
      text-decoration: none;
-     font-size: 1em;
-     line-height: 1.5em;
+     font-size: 0.5em;
+     line-height: 1em;
      font-weight: 900;
 }
 /* selected link */
  a:active {
      color: black;
      text-decoration: none;
-     font-size: 1em;
-     line-height: 1.5em;
+     font-size: 0.5em;
+     line-height: 1em;
      font-weight: 900;
 }
 
 a:visited {
     color: black;
     text-decoration: none;
-    font-size: 1em;
-    line-height: 1.5em;
+    font-size: 0.5em;
+    line-height: 1em;
     font-weight: 900;
 }
 
@@ -163,7 +163,7 @@ mark {
 .overlay-name {
     font-weight: 900;
     font-family: 'Space Mono', monospace;
-    font-size: 4em;
+    font-size: 1em;
     text-align: right;
 }
 
