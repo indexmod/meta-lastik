@@ -168,17 +168,16 @@ mark {
 }
 
 
-
 .grid {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 0rem;
 }
 
 /* Screen larger than 600px? 2 column */
 @media (min-width: 600px) {
-  .grid { grid-template-columns: repeat(2, 1fr); }
+  .grid { grid-template-columns: repeat(1, 1fr); }
 }
 
 /* Screen larger than 900px? 3 columns */
@@ -190,15 +189,15 @@ mark {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 0rem;
 }
 
 /* Screen larger than 600px? 2 column */
 @media (min-width: 600px) {
-  .grid-page { grid-template-columns: repeat(5, 1fr); }
+  .grid-page { grid-template-columns: repeat(4, 1fr); }
 }
 
 /* Screen larger than 900px? 2 columns */
 @media (min-width: 700px) {
-  .grid-page { grid-template-columns: repeat(5, 1fr); }
+  .grid-page { grid-template-columns: repeat(4, 1fr); }
 }
