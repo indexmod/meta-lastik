@@ -1,4 +1,5 @@
 ---
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Space+Mono&display=swap');
 ---
 
 
@@ -29,7 +30,7 @@ th, td {
   color: green;
   text-align: left;
   vertical-align: top;
-  font-family: 'monaco', sans-serif;
+  font-family: 'Space Mono', monospace;
 }
 
  hr {
@@ -40,7 +41,7 @@ th, td {
 }
 
  p {
-     font-family: 'monaco', sans-serif;
+     font-family: 'Space Mono', monospace;
      font-weight: 900;
      color: black;
      font-size: 1em;
@@ -49,7 +50,7 @@ th, td {
 }
 
 h1 {
-    font-family: 'monaco', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     color: black;
     font-size: 2em;
@@ -57,7 +58,7 @@ h1 {
 }
 
 h2, h3 {
-    font-family: 'monaco', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     color: black;
     font-size: 1.2em;
@@ -65,7 +66,7 @@ h2, h3 {
 }
 
 ul, li {
-    font-family: 'monaco', sans-serif;
+    font-family: 'Space Mono', monospace;
     font-weight: 900;
     color: black;
     font-size: 1em;
@@ -73,7 +74,7 @@ ul, li {
 }
 
 .toptable-meta {
-    font-family: 'monaco', sans-serif;
+    font-family: 'Space Mono', monospace;
     font-weight: 900;
     color: black;
     font-size: 1em;
@@ -161,7 +162,7 @@ mark {
 
 .overlay-name {
     font-weight: 900;
-    font-family: 'monaco', sans-serif;
+    font-family: 'Space Mono', monospace;
     font-size: 4em;
     text-align: right;
 }
