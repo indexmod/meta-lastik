@@ -190,6 +190,23 @@ a:visited {
     font-weight: 900;
 }
 
+*{
+  margin: 0;
+  paddding: 0;
+}
+
+.wrapper-cover{
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.wrapper-cover .wrapper__video{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
 #wrapper {
     width: 100%;
     min-width: 300px;
