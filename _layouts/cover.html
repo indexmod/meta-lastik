@@ -1,43 +1,11 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.top-container {
-  background-color: #f1f1f1;
-  padding: 30px;
-  text-align: center;
-}
-
-.header {
-  padding: 10px 16px;
-  background: #555;
-  color: #f1f1f1;
-}
-
-.content {
-  padding: 16px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 102px;
-}
-</style>
+<link rel="stylesheet" href="{{ '/assets/css/style-cover.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 <body>
-
 <div class="top-container">
   <video  class="top" autoplay muted loop id="myVideo">
-    <source src="https://dl.dropboxusercontent.com/s/gd51ylq3ldis6g6/REEL_2_3_pw.mp4" type="video/mp4">
+    <source src="media/cover-video.mp4" type="video/mp4">
     Your browser does not support HTML5 video.
   </video>
 </div>
@@ -46,7 +14,6 @@ body {
   <h2>My Header</h2>
 </div>
 
-{% include menu.html %}
 
 <div class="content">
   <h3>On Scroll Sticky Header</h3>
