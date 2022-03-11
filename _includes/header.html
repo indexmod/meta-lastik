@@ -1,131 +1,15 @@
-
-<head>
-  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-
-* {
-  box-sizing: border-box;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
-
-body {
-  margin: 0;
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-  font-weight: 900;
-  font-size: 20px;
-}
-
-/* unvisited link */
-
-a:link {
-    color: white;
-    text-decoration: none;
-}
-
-/* mouse over link */
-
- a:hover {
-     color: white;
-     text-decoration: underline;
-}
-/* selected link */
-
- a:active {
-     color: white;
-     text-decoration: none;
-}
-
-a:visited {
-    color: white;
-    text-decoration: none;
-}
-
- .video-container {
-     position: sticky;
-}
-
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-}
-
-.content {
-  position: fixed;
-  bottom: 0;
-  background: linear-gradient(0deg, rgba(253, 72, 127, 1) 0%, rgba(253, 72, 127, 0) 100%);
-  color: white;
-  width: 100%;
-  padding: 100px;
-}
-
-.myButton {
-	background-color:transparent;
-	border-radius:28px;
-	border:3px solid #ffffff;
-	display: inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family: 'M PLUS Rounded 1c', sans-serif;;
-	font-size:22px;
-	font-weight:bold;
-	padding:16px 31px;
-	text-decoration: none;
-}
-
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  border: 0px solid green;
-}
-
-.lastik {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 150px;
-  border: 0px solid green;
-}
-
-</style>
-</head>
-<body>
-
-<video autoplay muted loop id="myVideo">
+<div class="banner">
+<video  class="top" autoplay muted loop id="myVideo">
   <source src="https://dl.dropboxusercontent.com/s/gd51ylq3ldis6g6/REEL_2_3_pw.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 <div class="content">
   <div class="lastik">
-             <img alt="Back to main" src="images/new_logo.svg"
+             <img alt="Lastik" src="images/new_logo.svg"
              width="auto" height="250px">
   </div>
 <div class="center">
 <a align="center" href="/vimeo" class="myButton">REEL</a>
 </div>
-
   </div>
-
-</body>
+</div>
