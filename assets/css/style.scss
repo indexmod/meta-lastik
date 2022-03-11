@@ -11,12 +11,13 @@
   box-sizing: border-box;
 }
 
-.banner {
-  margin: 0;
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-  font-weight: 900;
-  font-size: 20px;
+header {
+  text-align: center;
+  padding: 3px;
+  background-color: rgba(253, 72, 127, 0);
+  color: white;
 }
+
 
 .top {
      position: relative;
