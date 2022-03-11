@@ -19,7 +19,7 @@
 }
 
 #myVideo {
-  position: fixed;
+  position: relative;
   right: 0;
   bottom: 0;
   min-width: 100%;
@@ -27,7 +27,7 @@
 }
 
 .content {
-  position: fixed;
+  position: relative;
   bottom: 0;
   background: linear-gradient(0deg, rgba(253, 72, 127, 1) 0%, rgba(253, 72, 127, 0) 100%);
   color: white;
@@ -50,7 +50,7 @@
 }
 
 .center {
-  display: flex;
+  display: box;
   justify-content: center;
   align-items: center;
   height: 200px;
@@ -58,7 +58,7 @@
 }
 
 .lastik {
-  display: flex;
+  display: box;
   justify-content: center;
   align-items: center;
   height: 150px;
