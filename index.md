@@ -1,11 +1,8 @@
 ---
-title: 404
-subtitle: Сраницы еще нет
-prmalink: 404
-layout: index
-shortname: 404
+title: Lastik
+subtitle: Studio
+shortname: Lastik
 exclude: true
-video: https://media.giphy.com/media/14BXKwvKFBEhopMMF7/giphy.mp4
+video: media/cover-top.mp4
+layout: index
 ---
-
-+ [Grid](index)
